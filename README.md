@@ -8,6 +8,10 @@ We introduce you Loti, the easiest way to remind your day to manage geographic
 #### With the Loti, you can espace from a hassle to keep track your events in different areas.
 #### Loti will keep following all your tasks no matter where the event happens, and it will take you there with the integrated calendar and google maps.
 
+## Problem define
+* We use Calendar to organize our schedules, but we use Maps to get to scheduled location.
+
+
 ## How was Loti made
 * Design & Graphic : Figma, and Illustrator
 * Google Could API : Google Maps API(Places API, Directions API), and Google Calendar API
@@ -21,7 +25,7 @@ We introduce you Loti, the easiest way to remind your day to manage geographic
 
 ## What's next for Loti
 * Most relevent location-event recommendation system using Google Cloud Geospatial Analytics
-* 
+
 
 ## Who you are, team melona
 We are team melona, who believes design and data makes world better, and all three of us are student of  Carneige Mellon University.
