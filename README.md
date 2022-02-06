@@ -3,7 +3,7 @@ We introduce you Loti, the easiest way to remind your day to manage geographic
 
 ## What is Loti
 <img src="/img/git_image_1.png" width="400" >
-<img src="/img/git_image_into.png" width="600">
+<img src="/img/git_image_total.png" width="600">
 
 #### With the Loti, you can espace from a hassle to keep track your events in different areas.
 #### Loti will keep following all your tasks no matter where the event happens, and it will take you there with the integrated calendar and google maps.
