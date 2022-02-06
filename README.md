@@ -35,7 +35,7 @@ We are team melona, who believes design and data makes world better, and all thr
 
 ## TartanHacks 2022 competition
 Submitted Feb. 6th, 2022
-* [Introduction video](link)
-* [Demo video](link)
+* [Introduction video](https://drive.google.com/file/d/182c6NTAWVCjoW7XFWDZgV06zQVRL6cXz/view?usp=sharing)
+* [Demo video](https://drive.google.com/file/d/1TApSDw7CbxuKdb7p0H2PnvqiU68c-_mW/view?usp=sharing)
 * [Presentation](https://drive.google.com/file/d/1Plb-_p8GTimZC7T5_b70_Y445O3-O2Dx/view?usp=sharing)
 
