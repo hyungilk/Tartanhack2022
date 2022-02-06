@@ -2,9 +2,8 @@
 We introduce you Loti, the easiest way to remind your day.
 
 ## What is Loti?
-Loti is geo-task reminder 
-
-
+<img src="/img/git_image_1.png" width="400" >
+<img src="/img/git_image_2.png" width="200" >
 
 ## How was Loti made?
 * Design & Graphic : Figma, and Illustrator
