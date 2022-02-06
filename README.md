@@ -29,7 +29,7 @@ We introduce you Loti, the easiest way to remind your day to manage geographic
 
 ## Who you are, team melona
 We are team melona, who believes design and data makes world better, and all three of us are student of  Carneige Mellon University.
-* Jaehyuk Choi : Data Connection + UX Design | [LinkedIn](https://www.linkedin.com/in/jaehyukchoi1/)
+* Jaehyuk Choi : Data Engineering + UX Design | [LinkedIn](https://www.linkedin.com/in/jaehyukchoi1/)
 * Seonho Park : UI/UX Design | [Portfolio](https://www.seonhopark.com/)
 * Hyungil Ed Kim : Data Visualizatoin + Product Management | [LinkedIn](https://www.linkedin.com/in/hyungil-ed-kim/)
 
