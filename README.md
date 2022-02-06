@@ -1,16 +1,16 @@
 # Loti
-We introduce you Loti, the easiest way to remind your day to manage geographic 
+We proudly introduce you Loti, the easiest way to remind your day. 
+
+## Problem define
+* Nowadays, people use varying scheduling platforms from google calendar to time tree to manage their schedules. However, there always existed inconvenience with theses. We use calendar to organize schedule to keep location and time of an event, but we use maps to get a direction to our destination. So every time there is an event, we open our calendar app, retrieve location information, and open again maps app to find a direction to desired destination. This process will repeat indefinteily for all of your events, unless you have Loti.
 
 ## What is Loti
 <img src="/img/git_image_1.png" width="400" >
 <img src="/img/git_image_total.png" width="800">
 
-#### With the Loti, you can espace from a hassle to keep track your events in different areas.
-#### Loti will keep following all your tasks no matter where the event happens, and it will take you there with the integrated calendar and google maps.
+#### With Loti, you can espace from such hassle to keep track your events in different areas.
 
-## Problem define
-* We use Calendar to organize our schedules, but we use Maps to get to scheduled location.
-
+#### Loti keeps track of user's real time locations so that wherever and whenever the event happens, it will take you there.
 
 ## How was Loti made
 * Design & Graphic : Figma, and Illustrator
